@@ -4,7 +4,7 @@ import java.util.Scanner;
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=1;i<=n;i++){ //rows
-            for(int j=i;j>=1;j++){
+            for(int j=n;j>=i;j--){
                 System.out.print(" * ");
             }
              System.out.println();
@@ -12,3 +12,15 @@ import java.util.Scanner;
         sc.close();
     }
 }
+/*
+output:
+-------
+
+5
+ *  *  *  *  * 
+ *  *  *  *
+ *  *  *
+ *  *
+ *
+ 
+ */
