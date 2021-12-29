@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pattern1 {
+public class Pattern30 {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -8,7 +8,7 @@ public class Pattern1 {
                 System.out.print(" ");
             }
                 for(int j=i;j>=1;j--){
-                    System.out.print(i+"");
+                    System.out.print(j+"");
                     
                 }
                 System.out.println();
@@ -19,12 +19,11 @@ public class Pattern1 {
 /*
 output:
 -------
-
 5
- 55555
-  4444
-   333
-    22
+ 54321
+  4321
+   321
+    21
      1
 
      */
