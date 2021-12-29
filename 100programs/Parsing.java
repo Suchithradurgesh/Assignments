@@ -18,3 +18,15 @@ public class Parsing{
         System.out.println("year: "+year);
     }
 }
+/*
+output:
+-------
+hour: 3
+minutes: 12
+seconds: 20
+day: Sunday
+date: 19
+month: Dec
+year: 2021
+
+*/

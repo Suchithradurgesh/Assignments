@@ -17,10 +17,17 @@ public class Frequency{
 
         else{
             System.out.println("the given character is not there in given string");
-        }
-        
-        
-    
-     
+        }   
 }
 }
+/*output:
+---------
+suchithra
+c
+count is1
+ 
+suchithra
+e
+the given character is not there in given string
+
+*/

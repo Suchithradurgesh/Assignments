@@ -39,3 +39,33 @@ import java.util.Scanner;
       sc.close();
     }
  }
+ /*
+ output:
+ --------
+ 3
+enter employ id
+1
+enter employ name
+suchithra
+enter employ designation
+full stack developer
+enter employ id
+2
+enter employ name
+viritha
+enter employ designation
+donkey
+enter employ id
+3
+enter employ name
+shreya
+enter employ designation
+developer
+enter id to search
+2
+match found
+employee name:viritha
+employee id:2
+employee designation:donkey
+
+*/

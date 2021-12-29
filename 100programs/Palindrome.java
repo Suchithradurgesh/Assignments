@@ -15,3 +15,17 @@ public class Palindrome{
 
     }
 }
+/*
+output:
+-------
+suchithra
+original string is:suchithra
+reversed string is:arhtihcus
+not a palindrome
+
+madam
+original string is:madam
+reversed string is:madam
+palindrome
+
+*/
