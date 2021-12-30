@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pattern2{
+public class InvertedHalfPyramid{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -9,7 +9,9 @@ public class Pattern2{
             }
             System.out.println();
         }
+        sc.close();
     }
+    
 }
 /*output:
 ---------

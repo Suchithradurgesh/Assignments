@@ -1,11 +1,14 @@
 import java.util.Scanner;
-public class HollowInvertedHalfPyramid{
+public class HallowFullPyramid{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=1;i<=n;i++){
-            for(int j=i;j<=n;j++){
-                if(i==1 ||j==i ||j==n){
+            for(int k=n-1;k>=i;k--){
+                System.out.print(" ");
+            }
+            for(int j=1;j<=i;j++){
+                if(j==1 ||j==i ||i==n){
                     System.out.print(" "+j);
 
                 }
@@ -15,15 +18,6 @@ public class HollowInvertedHalfPyramid{
             }
             System.out.println();
         }
+        sc.close();
     }
 }
-/*
-output:
--------
-5
- 1 2 3 4 5
- 2     5
- 3   5
- 4 5
- 5
- */
