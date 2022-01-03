@@ -1,3 +1,5 @@
+//EXAMPLE  PROGRAM ON ARRAYINDEXOUTOFBOUND EXCEPTION
+
 import java.util.*;
 public class ArrayOutofBound {
     public static void main(String args[]){
