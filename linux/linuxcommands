@@ -1,0 +1,25 @@
+pwd-print working directory
+ls-print all the files
+ls -l-print all the files listed in a line
+cd- change the directory
+touch -to create the new file
+cat-print the contents of the file
+cd ..-it goes to the back step
+cd -it will take to the home place
+/-root folder of the entire os
+su-switch user
+ls -l |more-it will list the output in the single page and to quit enter Q
+ls-r- it displays the contents and folders till to the last
+ls -s-displays the size
+ls -ls-displays the files and sizes
+ls-lh-displays in human readable form
+ls-ltr-reverse the contents
+ls-l | grep filename-it will search for the specific file
+ls-li- displays the index number
+chmod u-r file name- it will remove the read permission
+chmod u+r file name- it will add the read permission
+chmod a+r file name-it will removes the read,write and execute permissions of the file
+chown - it is used to change the ownership
+ls-d- it displays the current directory
+cp-copy command
+rm file name-to delete the file

@@ -1,0 +1,17 @@
+                                                                                                                                       FLAGS
+ sourceside archive (or)compression file creation
+-------------------------------------------------------------------
+-c-to create a new archive
+-v-verbose output(display all the contents-archive)
+-f-file.tar.gz-use archive file as name
+-z-apply the compression technique(gzip.tar.gz)
+-j-apply this compression technique(bzip2)
+destination side:decompress (or)extract the contents
+------------------------------------------------------------------
+-x-extract of all the files from archive
+-t-display the list of all the contents in archive
+-v-verbose output
+-f-file.tar.gz-use archive file name
+--exclude-exclude the files matching pattern/directory/file name
+-j-compression technique(gzip)
+-z-apply the compression technique(bzip2)

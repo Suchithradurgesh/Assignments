@@ -1,0 +1,18 @@
+                                                                       vi commands
+i-insert at cursor(goes to the insert mode)
+esc-terminate insert mode
+u-undo the last changes
+U-undo all the changews to the entire line
+dd-delete the current line
+D- delete the contents of line after the cursor
+C-delete contents of line after cursor and insert the new text.press the ESC key to end the insertion
+dw-delete the word
+cw-change the word
+X-delete the character at the cursor
+r-replace the character
+shift+zz-save the file and quit
+:w-save the file but file will be still open.
+:q-quit without savings
+:wq-save the file and quit
+dG:delete the lines or text inside the file
+gg-take your cursor to the character of your file 

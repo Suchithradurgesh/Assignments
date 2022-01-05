@@ -1,0 +1,13 @@
+CHMOD USING THE NUMERIC CHARACTERS
+----------------------------------------------------------------------------------
+NUMBER                                REPRESENTS                                         STATUS
+----------------------------------------------------------------------------------
+0                                                  no permission                                        ---
+1                                               execute permission                                --X
+2                                              write permission                                       -w-
+3                                         execute and write permission                 -wx
+4                                                read permission                                      r--
+5                                        read and execute oermission                     r-x
+6                                        read and write permission                          rw-
+7                                          read,write,execute permission               rwx
+ 

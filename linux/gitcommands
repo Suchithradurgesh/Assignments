@@ -1,0 +1,12 @@
+GIT COMMANDS
+git init-create the empty repository
+git add -add a file to staging area
+git status-current status
+git log-list the version history for the current branch
+git config-set the user name and email address
+git clone-obtain a repository from the existing url
+git branch-lists all the local repositories in the current repository
+git merge-merge the specified branch history into the current history
+git push=sends the commited chnages of the master branch to the remote reposiitory
+git remote-itv is used to connect your local reposiory to the remote repository
+git pull-fetches and merges changes on the remote server to your current working directory
