@@ -1,0 +1,12 @@
+foocbar
+foorbar
+fooobar
+foowbar
+bartfoo
+barefoo
+foo2bar
+foo@bar
+foo333bar
+foo@@@@@@bar
+foouuubar
+foottbar
